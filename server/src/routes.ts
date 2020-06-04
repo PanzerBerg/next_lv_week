@@ -1,4 +1,4 @@
-import express from 'express';
+const express = require('express');
 
 import PointsController from './controllers/PointsController'
 import ItemsController from './controllers/ItemsController'

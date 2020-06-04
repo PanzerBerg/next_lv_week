@@ -14,7 +14,6 @@ export async function up(knex: Knex){
         .notNullable()
         .references('id')
         .inTable('items');
-;
     });
 }
 
