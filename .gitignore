@@ -381,4 +381,7 @@ DerivedData/
 # Ignore all local history of files
 .history
 
+#Ignore sqlite files
+*.sqlite
+
 # End of https://www.gitignore.io/api/node,react,reactnative,visualstudiocode
