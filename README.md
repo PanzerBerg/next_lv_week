@@ -1,6 +1,6 @@
 # Projeto NLW - Ecoleta
 
-![](./README_images/Ecoleta.png)
+![](README_Images/Ecoleta.png)
 
 O projeto foi construido durando a Next Level Week graças a Rockerseat.
 O aplicativo Ecoleta cadastra pontos de coleta de resíduos reciclaveis em uma aplicação WEB e os apresenta em uma aplicação Mobile.
